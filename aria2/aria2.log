@@ -1,0 +1,2 @@
+2020-03-21 06:58:17.988016 [ERROR] [DHTSetup.cc:109] Exception caught while loading DHT routing table from C:/Users/Guo/.cache/aria2/dht.dat
+Exception: [DHTRoutingTableDeserializer.cc:83] errorCode=1 Failed to load DHT routing table from C:/Users/Guo/.cache/aria2/dht.dat
